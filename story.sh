@@ -14,9 +14,10 @@ if [ -f "$bash_profile" ]; then
 fi
 #!/bin/bash
 
-echo "======== WingsNodeTeam ============"
-echo "телеграм https://t.me/WingsNodeTeam"
-echo "==================================="
+#!/bin/bash
+
+echo -e "======== WingsNodeTeam ============\nтелеграм https://t.me/WingsNodeTeam\n==================================="
+
 RED='\033[0;31m'
 RESET='\033[0m'
 
